@@ -422,6 +422,7 @@
 				2C00F2601F790BF30057EDF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
