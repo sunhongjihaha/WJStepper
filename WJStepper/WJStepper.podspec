@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "孙鸿吉" => "395705277@qq.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/sunhongjihaha/WJStepper/WJStepper.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/sunhongjihaha/WJStepper.git", :tag => "#{s.version}" }
   s.source_files  = "WJStepper", "WJStepper/**/*.{h,m}"
   s.frameworks = "UIKit", "Foudation"
   s.dependency "Masonry", "~> 1.0.2"
